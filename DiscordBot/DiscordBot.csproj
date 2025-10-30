@@ -156,7 +156,6 @@
   <ItemGroup>
     <Compile Include="Commands\GifCommand.cs" />
     <Compile Include="Commands\KickCommand.cs" />
-    <Compile Include="Commands\TestCommands.cs" />
     <Compile Include="jsonReader.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
