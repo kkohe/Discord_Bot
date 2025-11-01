@@ -6,8 +6,10 @@ Também é um bot feito exclusivamente para o server com meus amigos, é para se
 ## 🚀 Funcionalidades atuais e futuras:
 - Envia e registra GIFs personalizados;
 - Responde a comandos no chat;
+- Expulsa membros que quebram regras;
 - (Em breve) Busca de imagens;
-- (Em breve) Comandos interativos.
+- (Em breve) Comandos interativos;
+- (Em breve) Automação em um canal específico.
 
 ## 🧩 Tecnologias
 - C#
