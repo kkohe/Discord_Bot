@@ -1,15 +1,18 @@
 # 🤖 MeuBot – Projeto de Estudo
 
-Este é um bot de Discord desenvolvido em C# (.NET) como parte do meu estudo sobre desenvolvimento de bots e integração com APIs.
-Também é um bot feito exclusivamente para o server com meus amigos, é para ser algo divertido enquanto aprendo e aceito idéias. 
+Este é um bot de Discord desenvolvido em C# (.NET) e usando a biblioteca DSharpPlus como parte do meu estudo sobre desenvolvimento de bots e integração com APIs.
+Também é um bot feito exclusivamente para o server com meus amigos, é para ser algo divertido enquanto aprendo e implemento idéias sugeridas. 
+
+Como sou iniciante, as atualizações serão simples por um tempo.
 
 ## 🚀 Funcionalidades atuais e futuras:
 - Envia e registra GIFs personalizados;
 - Responde a comandos no chat;
 - Expulsa membros que quebram regras;
-- (Em breve) Busca de imagens;
+- (Em breve) Uso de EMBEDS para organização.
 - (Em breve) Comandos interativos;
 - (Em breve) Automação em um canal específico.
+- (Em breve) Busca de imagens;
 
 ## 🧩 Tecnologias
 - C#
