@@ -17,7 +17,7 @@ Como sou iniciante, as atualizações serão simples por um tempo.
 ## 🧩 Tecnologias
 - C#
 - Discord.Net
-- .NET 4.8 (Futuramente pretendo atualizar para uma versão mais recente.)
+- .NET Framework 4.8 (Futuramente pretendo atualizar para o .NET 9.0, mas não é o meu foco por agora).
 
 ## ⚙️ Como usar, caso queira a base:
 1. Clone este repositório:
