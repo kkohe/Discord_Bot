@@ -1,3 +1,5 @@
+PROJETO EM PAUSA!
+
 # 🤖 MeuBot – Projeto de Estudo
 
 Este é um bot de Discord desenvolvido em C# (.NET) e usando a biblioteca DSharpPlus como parte do meu estudo sobre desenvolvimento de bots e integração com APIs.
